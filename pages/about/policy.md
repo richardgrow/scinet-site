@@ -1,5 +1,5 @@
 ---
-title: SCINet Policy
+title: SCINet Policies
 description: SCINet policies and procedures
 permalink: /about/policies
 layout: page
@@ -30,7 +30,7 @@ layout: page
 
 **Security Awareness Training:**  
 
-:  Each Non-USDA SCINet account user will atttest to taking Annual Security Awareness Training.
+:  Each Non-USDA SCINet account user will attest to taking Annual Security Awareness Training.
 
 **Account Deactivation:**  
 
@@ -47,7 +47,7 @@ layout: page
 
 **Home Directories:**  
 
-:  Home directory quota on all HPC clusters is automatically granted to all SCINet user accounts.  You have space by default as a user, but you can request Project Allocation.
+:  A home directory quota on all HPC clusters is automatically granted to all SCINet user accounts.  Users have home directory space by default but can also request a project allocation.
 
    * Project Allocation Request: A [SCINet Project Allocation Request](/support/request-storage#to-request-a-quota-increase-for-an-existing-scinet-project-allocation) form must be submitted by the project's Principal Investigator (PI).
 
