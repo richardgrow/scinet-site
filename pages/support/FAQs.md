@@ -140,6 +140,10 @@ If you have questions, please email the VRSC: scinet_vrsc@usda.gov
 
 ### How do I reset or change my password?
 If your password is expired you should be prompted to change your password when you attempt to login. If you are still able to login, do so and type "passwd" you will be prompted for your old password and asked for a new one.
+
+More information about logging in to SCINet and changing your password can be found [here](https://scinet.usda.gov/guide/quickstart#accessing-scinet).
+
+A video demonstration of changing your password can be found [here](https://www.youtube.com/watch?v=Amhw2k5mftI).
 ```
 [first.last@ceres-login ~] $ passwd
 Changing password for user first.last
