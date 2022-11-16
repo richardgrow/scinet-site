@@ -17,17 +17,9 @@ For system downtime information see the [System Downtime page](/downtime/) for p
 
 ## 16-November-2022 SCINet Request Forms Down
 
-The SCINet support team has been made aware that certain requests submitted through forms on the SCINet website are not currently working properly and the requests have not been properly routed.  Until the problem can be resolved, we're temporarily deactivating these intake forms:
+Due to a Sharepoint issue, all SCINet resource request forms (for new accounts, new project allocations, and software installations) are currently unavailable. USDA IT technicians are working to restore service as soon as possible. We sincerely apologize for this inconvenience.
 
-* [/about/signup](/about/signup)
-    * Request ARS employee account
-    * Request Non-ARS account
-* [/support/request-storage](/support/request-storage)
-    * Request project storage
-* [/support/request-software](/support/request-software)
-    * Software request form
-
-Technicians are troubleshooting the issue to restore functionality with the forms as quickly as possible, but we cannot yet project when the service will be restored.  Once the problem has been fixed, the SCINet website forms will be reactivated and we will send an update to all.  Please be aware that we are unable to see and process requests submitted after Nov 4th at this time.
+Once the problem has been fixed, the SCINet website forms will be reactivated and we will send an update to all.  Please be aware that we are unable to see and process requests submitted after Nov 4th at this time.
 
 ## 08-December-2021 Atlas Downdown
 
