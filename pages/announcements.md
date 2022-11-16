@@ -15,6 +15,12 @@ Various announcements from the Virtual Research Support Core to SCINet users. Se
 
 For system downtime information see the [System Downtime page](/downtime/) for planned downtime and [SCINet Forum Announcements page](https://forum.scinet.usda.gov/c/announcements/6) (must have a SCINet account to access) about unplanned outages/system status.
 
+## 16-November-2022 SCINet Request Forms Down
+
+Due to a Sharepoint issue, all SCINet resource request forms (for new accounts, new project allocations, and software installations) are currently unavailable. USDA IT technicians are working to restore service as soon as possible. We sincerely apologize for this inconvenience.
+
+Once the problem has been fixed, the SCINet website forms will be reactivated and we will send an update to all.  Please be aware that we are unable to see and process requests submitted after Nov 4th at this time.
+
 ## 08-December-2021 Atlas Downdown
 
 The HPC2 Computing Office has scheduled maintenance for the Atlas compute cluster.  During this maintenance window, the login, devel, dtn, ood, and compute nodes for atlas will be unavailable and all associated cron jobs will be disabled.
