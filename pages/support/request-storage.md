@@ -41,5 +41,5 @@ When requesting additional data storage you will be asked for:
 
 To request a new project directory, fill out an application form (eAuthentication required, non-ARS users should contact their sponsor):
 
-<!--[Request Project Storage](https://e.arsnet.usda.gov/sites/OCIO/scinet/accounts/SitePages/Project_Allocation_Request.aspx){: .usa-button .usa-button-big }-->
-[Request Project Storage](/scinet-resource-requests-notice/){: .usa-button .usa-button-big }
+[Request Project Storage](https://e.arsnet.usda.gov/sites/OCIO/scinet/accounts/SitePages/Project_Allocation_Request.aspx){: .usa-button .usa-button-big }
+
