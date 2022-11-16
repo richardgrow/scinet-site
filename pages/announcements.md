@@ -17,6 +17,8 @@ For system downtime information see the [System Downtime page](/downtime/) for p
 
 ## 16-November-2022 SCINet Request Forms Down
 
+**This issue was resolved on 11/16/2022**
+
 Due to a Sharepoint issue, all SCINet resource request forms (for new accounts, new project allocations, and software installations) are currently unavailable. USDA IT technicians are working to restore service as soon as possible. We sincerely apologize for this inconvenience.
 
 Once the problem has been fixed, the SCINet website forms will be reactivated and we will send an update to all.  Please be aware that we are unable to see and process requests submitted after Nov 4th at this time.
