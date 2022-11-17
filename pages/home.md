@@ -4,6 +4,14 @@ permalink: /
 
 layout: home
 
+alerts:
+  - alert:
+    title: SCINet Website Redesign
+    type: info
+    text: "The SCINet website redesign is scheduled to be launched on December 1st. 
+    
+    You can [explore our demo of the redesign now](https://usda-scinet.github.io/scinet-site/){: .usa-link--external} and [send us your feedback.](mailto:moe.richert@usda.gov?subject=SCINet Website Feedback){: .usa-link--external}"
+
 hero:
   image: /assets/img/laura-ockel-1194484-unsplash.jpg
   callout:
