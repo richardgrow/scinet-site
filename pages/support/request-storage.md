@@ -2,7 +2,7 @@
 title: Request Additional SCINet Storage
 description: link to request project allocation
 permalink: /support/request-storage
-author: Kerrie Geil
+author: SCINet Office
 layout: page
 
  
@@ -25,21 +25,23 @@ Users are advised to request additional space in the `/project` directory. Proje
 Users also have access to storage in `/90daydata`, for which there are no storage quotas. This short-term storage space is ideal for temporary storage of large data files and intermediate results.
 
 ## To Request a Quota Increase for an Existing SCINet Project Allocation
-SCINet users have access to a large short-term storage `/90daydata` which has no quotas. When requesting a project quota increase on Ceres or Atlas the PI will need to justify the request and explain why using `/90daydata` is not sufficient. 
 
-To request project quota increase for storage on Ceres, Atlas and/or Juno fill out the following application form:
+SCINet users have access to a large, short-term storage area on each cluster (`/90daydata`) which has no quotas. When requesting a project quota increase on Ceres or Atlas the PI will need to justify the request and explain why using `/90daydata` is not sufficient. 
+
+To request a project quota increase for storage on Ceres, Atlas and/or Juno, fill out the following application form:
 
 [Request Project Quota Increase](https://forms.office.com/g/ntnKBzJiKx){: .usa-button .usa-button-big }
 
 Please Note: Only the project manager or the project PI can request a quota increase. Any requests sent by other individuals will be declined.
 
 ## To Request a New Project Allocation
-When requesting additional data storage you will be asked for:
-* a project summary, 
-* project end date, 
-* and to detail your long-term plan for data in your project directory after your project end date.
 
-To request a new project directory, fill out an application form (eAuthentication required, non-ARS users should contact their sponsor):
+When requesting a new project allocation, you will be asked for:
+* a project summary
+* project end date 
+* your long-term plan for data in your project directory after your project end date
 
-[Request Project Storage](https://e.arsnet.usda.gov/sites/OCIO/scinet/accounts/SitePages/Project_Allocation_Request.aspx){: .usa-button .usa-button-big }
+To request a new project directory, fill out the following application form (eAuthentication required, non-ARS users should contact their sponsor):
+
+[Request Project Storage](https://forms.office.com/g/wD9rYarVyn){: .usa-button .usa-button-big }
 
