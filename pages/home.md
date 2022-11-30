@@ -8,7 +8,7 @@ alerts:
   - alert:
     title: SCINet Website Redesign
     type: info
-    text: "The new SCINet website will launch on December 1st! 
+    text: "The new SCINet website will launch in early December! 
     
     You can [explore our demo of the redesign now](https://usda-scinet.github.io/scinet-site/){: .usa-link--external} and [send us your feedback.](mailto:moe.richert@usda.gov?subject=SCINet Website Feedback){: .usa-link--external}"
 
